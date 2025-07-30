@@ -1,0 +1,6 @@
+{
+  "name": "Grid War Simulation & Brainstormer",
+  "description": "A web application that simulates a territorial grid-based game between two teams and uses the Gemini API to brainstorm new game ideas.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
